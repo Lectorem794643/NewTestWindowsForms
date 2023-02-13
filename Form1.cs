@@ -19,7 +19,6 @@ namespace NewTestWindowsForms
         }
 
         /* Отправил на Git 13.02.2023 */
-
         public void startNewTable()
         {
             /* Сначала задаю струкутру своей таблицы и прописываю имя и название ячеек */
